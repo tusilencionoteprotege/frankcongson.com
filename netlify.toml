@@ -1,6 +1,4 @@
-[base]  
-  base = "/"
-  
+
 [build]
   publish = "public/"
 
