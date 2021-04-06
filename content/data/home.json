@@ -4,7 +4,7 @@
     "alt_text": "A village in the Snæfellsnes peninsula of western Iceland"
   },
   "main_content": {
-    "header": "Hello.",
+    "header": "Hola.",
     "text": "I’m Frank Congson. Welcome to my digital garden. Join me as I share my photography, travels, and other stories along the way.",
     "image": "frank-huacachina-peru.jpeg",
     "alt_text": "Frank in Huacachina, Peru"
@@ -51,7 +51,9 @@
   "seo": {
     "title": "",
     "description": "",
-    "keywords": [],
+    "keywords": [
+
+    ],
     "image": "",
     "alt_text": ""
   }
